@@ -9,7 +9,7 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 
 ## Main Overview
 
-This release contains information on the office-level returns for state elections in each of the fifty states of the United States for the year of 2016. Office-level refers to a state or local [election office.](https://www.usa.gov/election-office)
+This release contains information on the office-level returns for state elections in each of the fifty states of the United States for the year of 2016. Office-level refers to a state or local election office.
   
 The included data is provided by Harvard Dataverse, which contains almost 100,000 datasets on various subjects. This specific dataset is maintained by the MIT Election Data and Science Lab (MEDSL). If you want to learn more or explore other datasets, visit the [Harvard Dataverse homepage](https://dataverse.harvard.edu/) and the [MEDSL homepage](https://electionlab.mit.edu/). 
 
