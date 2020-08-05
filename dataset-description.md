@@ -1,0 +1,1 @@
+This release contains information on the office-level returns for state elections in each of the fifty states of the United States for the year of 2016. Office-level refers to a state or local election office.
